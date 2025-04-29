@@ -1,4 +1,4 @@
-import 'package:avaronn_app/presentation/sign_up_screen.dart';
+import 'package:avaronn_app/presentation/sign_up_journey/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
